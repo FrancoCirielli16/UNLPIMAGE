@@ -44,9 +44,7 @@ python unlpimage.py
 - [x] Generar collage
 - [x] Generar meme
 - [x] Estadisticas
-```
 
-```
 ## Etiquetar Imagen
 
 La funcionalidad de Etiquetar Imagen permite asignar etiquetas y descripciones a las imágenes para una mejor organización y clasificación. Cada imagen etiquetada se registra en un archivo CSV dedicado que almacena la metadata correspondiente, incluyendo las etiquetas y descripciones proporcionadas por los usuarios. Cualquier usuario tiene la capacidad de actualizar la metadata de las imágenes, lo que permite un manejo colaborativo y flexible de la información asociada a cada imagen.
